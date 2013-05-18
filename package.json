@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "explainjs": "0.0.9"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-explainjs": "0.0.1"
+  }
+}
